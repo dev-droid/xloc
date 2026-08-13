@@ -18,7 +18,7 @@
     motionActivityType: 63,
     motionActivityConfidence: 467,
     failOpen: true,
-    debug: false,
+    debug: true,
     dumpRaw: false,
     dumpHeaders: false,
     prepareHeaders: false,
